@@ -11,13 +11,8 @@ An interactive, responsive digital wedding invitation celebrating **Bhoomika & R
 
 * **Wax Seal Envelope Opening**: Realistic envelope with a bespoke **B & R** monogram stamped in gold wax that splits realistically when clicked to reveal the invitation.
 * **Ambient Background Music**: Wedding background music extracted and optimized for seamless playback across all mobile and desktop browsers with interactive play/pause toggle.
-* **6 Celebration Video Cards**: Autoplaying, looping portrait videos:
-  1. *Rang sari*
-  2. *Nachde ne saare*
-  3. *Bhaat ki Reet*
-  4. *Lagan la gyi re*
-  5. *Reception*
-  6. *Phere*
+* **Celebration Video Card**: Autoplaying, looping portrait video:
+  1. *Reception*
 * **Watercolor Venue & Travel Guide**: Illustrated venue card for Khanvel Resort with direct Google Maps navigation and nearby airport, railway, and driving routes.
 * **Interactive RSVP with WhatsApp Integration**:
   - Attend / Decline selection
